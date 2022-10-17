@@ -1,0 +1,15 @@
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\bin\Debug\net6.0\mini1sayhello.exe
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\bin\Debug\net6.0\mini1sayhello.deps.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\bin\Debug\net6.0\mini1sayhello.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\bin\Debug\net6.0\mini1sayhello.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\bin\Debug\net6.0\mini1sayhello.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\refint\mini1sayhello.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\mini1sayhello.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini1sayhello\obj\Debug\net6.0\ref\mini1sayhello.dll
