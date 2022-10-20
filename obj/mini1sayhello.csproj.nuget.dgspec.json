@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blayz\\OneDrive\\Documents\\codestack wk 1\\homework\\mini1sayhello\\mini1sayhello.csproj": {}
+    "C:\\Users\\rsgoo\\RmanzoMini1Git\\mini1sayhello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blayz\\OneDrive\\Documents\\codestack wk 1\\homework\\mini1sayhello\\mini1sayhello.csproj": {
+    "C:\\Users\\rsgoo\\RmanzoMini1Git\\mini1sayhello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blayz\\OneDrive\\Documents\\codestack wk 1\\homework\\mini1sayhello\\mini1sayhello.csproj",
+        "projectUniqueName": "C:\\Users\\rsgoo\\RmanzoMini1Git\\mini1sayhello.csproj",
         "projectName": "mini1sayhello",
-        "projectPath": "C:\\Users\\blayz\\OneDrive\\Documents\\codestack wk 1\\homework\\mini1sayhello\\mini1sayhello.csproj",
-        "packagesPath": "C:\\Users\\blayz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blayz\\OneDrive\\Documents\\codestack wk 1\\homework\\mini1sayhello\\obj\\",
+        "projectPath": "C:\\Users\\rsgoo\\RmanzoMini1Git\\mini1sayhello.csproj",
+        "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rsgoo\\RmanzoMini1Git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\blayz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
